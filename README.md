@@ -29,3 +29,4 @@ List of free DNS
 | freedns.ws          | 2                    | неограниченное                   | AAAA, SRV                 | +     | Публичные домены                                                                                                                                      |
 | xname.org           | 3                    | неограниченное                   | AAAA                      | +     |                                                                                                                                                       |
 | biz.mail.ru         | 2                    | неограниченное                   | AAAA, SRV, SPF            | ?     |                                                                                                                                                       |
+| cloudns.ru          | 2                    | 10                   | AAAA, SRV                 | +     | Больше 10 доменов и API за деньги |
