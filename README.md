@@ -29,3 +29,4 @@ List of free DNS
 | xname.org           | 3                    | неограниченное                   | AAAA                      | +     |                                                                                                                                                       |
 | biz.mail.ru         | 2                    | неограниченное                   | AAAA, SRV, SPF            | ?     |                                                                                                                                                       |
 | cloudns.ru          | 2                    | 10                   | AAAA, SRV                 | +     | Больше 10 доменов и API за деньги |
+| zilore.com | 2 | неограниченное | AAAA, SRV, SPF, PTS, PTR, ALIAS | + | Импорт BIND9. Рисует красивые графики, считает статистику |
